@@ -7,13 +7,13 @@
 
 ## 1. IBD 鑑別超音波フローチャート
 
-![IBD 超音波鑑別フロー](../images/ibd_flowchart.png)
+![IBD 超音波鑑別フロー](../.images/ibd_flowchart.png)
 
 ---
 
 ## 2. 潰瘍性大腸炎 (UC) vs クローン病 (CD) 4大比較マトリックス
 
-![IBD 潰瘍性大腸炎 クローン病 比較判定表](../images/ibd_matrix_table.png)
+![IBD 潰瘍性大腸炎 クローン病 比較判定表](../.images/ibd_matrix_table.png)
 
 ---
 
