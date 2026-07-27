@@ -1,0 +1,175 @@
+/* Search Bar */
+.search-container {
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  border-radius: 30px;
+  border: 1px solid var(--glass-border);
+  background: var(--card-bg);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #fff;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color var(--transition-speed), box-shadow var(--transition-speed);
+}
+
+.search-input:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.2);
+}
+
+/* Metric Cards */
+.metric-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.metric-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+}
+
+.metric-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.metric-header {
+  padding: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+
+.metric-header:hover {
+  background: var(--hover-bg);
+}
+
+.metric-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.metric-abbr {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+.metric-name {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.metric-desc {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+.metric-icon {
+  font-size: 1.5rem;
+  color: var(--text-muted);
+  transition: transform var(--transition-speed);
+}
+
+.metric-card.expanded .metric-icon {
+  transform: rotate(180deg);
+}
+
+.metric-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 0 1.5rem;
+  opacity: 0;
+}
+
+.metric-card.expanded .metric-content {
+  max-height: 1000px;
+  padding: 0 1.5rem 1.5rem;
+  opacity: 1;
+}
+
+/* Guideline Tables */
+.guideline-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1rem;
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.guideline-table th,
+.guideline-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.guideline-table th {
+  background: rgba(255, 255, 255, 0.03);
+  font-weight: 600;
+  color: #fff;
+  font-size: 0.875rem;
+}
+
+.guideline-table tr:last-child td {
+  border-bottom: none;
+}
+
+.guideline-id {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: var(--glass-border);
+  color: var(--accent-color);
+}
+
+.value-range {
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  header {
+    padding: 1rem;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+
+  .metric-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .metric-icon {
+    position: absolute;
+    right: 1.5rem;
+    top: 1.5rem;
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "guidelines": [
+    { "id": "jsum", "name": "日本超音波医学会 (JSUM)" },
+    { "id": "jcs", "name": "日本循環器学会 (JCS)" },
+    { "id": "ase", "name": "米国超音波医学会 (ASE)" }
+  ],
+  "chapters": [
+    {
+      "id": "chapter_1",
+      "title": "第1章：心腔径と壁厚 (Basic Dimensions)",
+      "metrics": [
+        {
+          "id": "lvdd",
+          "name": "左室拡張末期径",
+          "abbreviation": "LVDd",
+          "unit": "mm",
+          "description": "左室の拡張末期の最大内径。",
+          "type": "reference",
+          "references": [
+            {
+              "guidelineId": "jsum",
+              "conditions": [
+                { "gender": "male", "bsaAdjusted": false, "min": 40, "max": 53 },
+                { "gender": "female", "bsaAdjusted": false, "min": 38, "max": 51 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bsa_calc",
+          "name": "体表面積 (BSA) 計算",
+          "abbreviation": "BSA",
+          "type": "calculator",
+          "description": "DuBois式による体表面積の計算",
+          "calculatorDef": {
+            "formulaId": "calc_bsa",
+            "inputs": [
+              { "id": "height", "label": "身長", "unit": "cm" },
+              { "id": "weight", "label": "体重", "unit": "kg" }
+            ],
+            "outputs": [
+              { "id": "bsa", "label": "BSA", "unit": "m²" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter_2",
+      "title": "第2章：左室収縮機能 (Systolic Function)",
+      "metrics": [
+        {
+          "id": "ef",
+          "name": "左室駆出率",
+          "abbreviation": "LVEF",
+          "unit": "%",
+          "description": "左室のポンプ機能の指標 (Simpson法)。",
+          "type": "reference",
+          "references": [
+            {
+              "guidelineId": "jsum",
+              "conditions": [
+                { "gender": "any", "bsaAdjusted": false, "min": 55, "max": 80 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chapter_3",
+      "title": "第3章：左室拡張機能 (Diastolic Function)",
+      "metrics": [
+        {
+          "id": "diastolic_function",
+          "name": "左室拡張機能障害 Grade判定",
+          "abbreviation": "DD Grade",
+          "type": "algorithm",
+          "description": "LVEF正常例における拡張能評価アルゴリズム",
+          "evaluationFlow": {
+            "steps": [
+              { "id": "step1", "condition": "Septal e' < 7 OR Lateral e' < 10 cm/s", "next": "step2" },
+              { "id": "step2", "condition": "Average E/e' > 14", "next": "step3" },
+              { "id": "step3", "condition": "LA Volume Index > 34 mL/m²", "next": "step4" },
+              { "id": "step4", "condition": "TR velocity > 2.8 m/s", "result": "陽性項目数で判定 (50%以上でDD, 50%未満で正常)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter_5",
+      "title": "第5章：弁膜症重症度評価 (Valvular Heart Disease)",
+      "metrics": [
+        {
+          "id": "ava_continuity",
+          "name": "大動脈弁口面積 (連続の式)",
+          "abbreviation": "AVA",
+          "type": "calculator",
+          "description": "LVOT径、LVOT VTI、AV VTIからAVAを算出します。",
+          "calculatorDef": {
+            "formulaId": "calc_ava",
+            "inputs": [
+              { "id": "lvot_d", "label": "LVOT径", "unit": "cm" },
+              { "id": "lvot_vti", "label": "LVOT VTI", "unit": "cm" },
+              { "id": "av_vti", "label": "AV VTI", "unit": "cm" }
+            ],
+            "outputs": [
+              { "id": "ava", "label": "AVA", "unit": "cm²" }
+            ]
+          }
+        },
+        {
+          "id": "mr_pisa",
+          "name": "僧帽弁閉鎖不全症 (PISA法)",
+          "abbreviation": "MR PISA",
+          "type": "calculator",
+          "description": "PISA法によるEROAおよび逆流量(RVol)の計算",
+          "calculatorDef": {
+            "formulaId": "calc_pisa",
+            "inputs": [
+              { "id": "radius", "label": "PISA半径 (r)", "unit": "cm" },
+              { "id": "aliasing_vel", "label": "Aliasing Velocity", "unit": "cm/s" },
+              { "id": "peak_vel", "label": "MR Peak Velocity", "unit": "cm/s" },
+              { "id": "vti", "label": "MR VTI (Optional)", "unit": "cm" }
+            ],
+            "outputs": [
+              { "id": "eroa", "label": "EROA", "unit": "cm²" },
+              { "id": "rvol", "label": "RVol", "unit": "mL" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
