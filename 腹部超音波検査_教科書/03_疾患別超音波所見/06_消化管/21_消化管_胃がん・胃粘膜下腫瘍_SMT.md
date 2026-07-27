@@ -1,4 +1,4 @@
-# 胃がん ＆ 胃粘膜下腫瘍 (GIST / SMT) 超詳細診断プロトコル
+﻿# 胃がん ＆ 胃粘膜下腫瘍 (GIST / SMT) 超詳細診断プロトコル
 
 > [!NOTE] 概要
 > 胃の超音波観察では、水飲み法 (Water-fill Method) や探触子圧迫技法を用い、胃壁の正常 5層構造 (粘膜層・粘膜下層・固有筋層・漿膜下層・漿膜層) の保持・破壊状態、病変の主座、および血流動態を評価します。
@@ -7,13 +7,13 @@
 
 ## 1. 超音波診断 ＆ 鑑別フローチャート
 
-![胃がん 胃SMT 超音波診断フロー](images/gastric_tumors_flowchart.png)
+![胃がん 胃SMT 超音波診断フロー](../images/gastric_tumors_flowchart.png)
 
 ---
 
 ## 2. 胃がん vs 胃GIST/SMT 4大特徴比較マトリックス
 
-![胃がん 胃SMT 比較鑑別表](images/gastric_tumors_matrix_table.png)
+![胃がん 胃SMT 比較鑑別表](../images/gastric_tumors_matrix_table.png)
 
 ---
 
