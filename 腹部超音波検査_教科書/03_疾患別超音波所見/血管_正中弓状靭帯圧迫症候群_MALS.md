@@ -1,4 +1,4 @@
-# 正中弓状靭帯圧迫症候群 (Median Arcuate Ligament Syndrome: MALS) 超詳細診断プロトコル
+﻿# 正中弓状靭帯圧迫症候群 (Median Arcuate Ligament Syndrome: MALS) 超詳細診断プロトコル
 
 > [!NOTE] 概要
 > MALS (Celiac Axis Compression Syndrome) は、横隔膜の正中弓状靭帯 (MAL) により**腹腔動脈 (Celiac Artery: CA)** の根部が頭側から圧迫・夾雑され、食後上腹部痛や体重減少を生じる血管圧縮疾患です。超音波検査は**呼吸変動に伴う血流速度変化**を観察できる決定的な検査法です。
