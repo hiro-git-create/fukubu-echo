@@ -57,13 +57,19 @@
 ### 6. 消化管・血管領域 (GI Tract & Vessels)
 - [[03_疾患別超音波所見/14_消化管_急性虫垂炎|★ 急性虫垂炎 (Acute Appendicitis): 段階的圧迫技法・外径6mm・病理期別]]
 - [[03_疾患別超音波所見/15_消化管_腸閉塞・イレウス|★ 腸閉塞・イレウス (Ileus): Key-board Sign・To-and-fro運動・絞扼性サイン]]
+- [[03_疾患別超音波所見/21_消化管_胃がん・胃粘膜下腫瘍_SMT|★ 胃がん ＆ 胃粘膜下腫瘍 (GIST/SMT): Target Sign / 5層構造破綻 / 固有筋層発生]]
+- [[03_疾患別超音波所見/22_消化管_大腸がん・大腸ポリープ|★ 大腸がん ＆ 大腸ポリープ: Apple-core Sign / 周囲全周性壁肥厚 >5mm]]
+- [[03_疾患別超音波所見/23_消化管_炎症性腸疾患_IBD_潰瘍性大腸炎_クローン病|★ 炎症性腸疾患 (IBD: UC vs CD): Comb Sign / Skip Lesions / Lead-pipe]]
+- [[03_疾患別超音波所見/24_消化管_腸重積症|★ 腸重積症 (Intussusception): Multiple Concentric Ring / Pseudokidney Sign]]
+- [[03_疾患別超音波所見/25_消化管_虚血性大腸炎|★ 虚血性大腸炎 (Ischemic Colitis): 降状～S状結腸壁肥厚 / Thumb-printing]]
+- [[03_疾患別超音波所見/26_消化管_大腸憩室炎|★ 大腸憩室炎 (Colonic Diverticulitis): Outpouching / Inflamed Fat Sign]]
 - [[03_疾患別超音波所見/16_血管_腹部大動脈瘤|★ 腹部大動脈瘤 (AAA)・大動脈解離: Outer-to-Outer二重計測・破裂リスク]]
 - [[03_疾患別超音波所見/17_血管_ナットクラッカー症候群|★ ナットクラッカー症候群 (Nutcracker): SMA分岐角・左腎静脈狭窄比]]
 - [[03_疾患別超音波所見/18_血管_正中弓状靭帯圧迫症候群_MALS|★ 正中弓状靭帯圧迫症候群 (MALS): 腹腔動脈Hook像・呼気/吸気PSV変化]]
 - [[03_疾患別超音波所見/19_血管_SMA症候群|★ 上腸間膜動脈症候群 (SMA症候群 / Wilkie): SMA角度<20°・距離<8mm・体位変換試験]]
 
 ### 7. その他・全身性疾患 (Others & Systemic)
-- [[03_疾患別超音波所見/20_その他_IgG4関連疾患|★ IgG4関連疾患 (IgG4-RD): 自己免疫性膵炎 AIP / 硬化性胆管炎 SC / 腎病変 RKD / 後腹膜線維症 RPF]]
+- [[03_疾患別超音波所見/27_その他_IgG4関連疾患|★ IgG4関連疾患 (IgG4-RD): 自己免疫性膵炎 AIP / 硬化性胆管炎 SC / 腎病変 RKD / 後腹膜線維症 RPF]]
 
 ---
 
