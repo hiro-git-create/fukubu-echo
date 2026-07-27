@@ -7,13 +7,13 @@
 
 ## 1. 超音波診断 ＆ 鑑別フローチャート
 
-![胃がん 胃SMT 超音波診断フロー](../.images/gastric_tumors_flowchart.png)
+![胃がん 胃SMT 超音波診断フロー](../images/gastric_tumors_flowchart.png)
 
 ---
 
 ## 2. 胃がん vs 胃GIST/SMT 4大特徴比較マトリックス
 
-![胃がん 胃SMT 比較鑑別表](../.images/gastric_tumors_matrix_table.png)
+![胃がん 胃SMT 比較鑑別表](../images/gastric_tumors_matrix_table.png)
 
 ---
 

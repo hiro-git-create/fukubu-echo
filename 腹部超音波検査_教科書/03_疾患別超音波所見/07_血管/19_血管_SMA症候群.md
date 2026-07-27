@@ -7,7 +7,7 @@
 
 ## 1. 超音波診断 ＆ 動態観察アルゴリズム
 
-![SMA症候群 超音波診断フロー](../.images/sma_syndrome_flowchart.png)
+![SMA症候群 超音波診断フロー](../images/sma_syndrome_flowchart.png)
 
 > [!IMPORTANT] SMA血管系3大圧迫病態の整理
 > - **ナットクラッカー症候群**: SMAとAOの間で **左腎静脈 (LRV)** が圧迫される (血尿・左腰痛)。
