@@ -1,11 +1,11 @@
 # 腹部超音波検査 (Abdominal Ultrasound) Master Index & Protocol Vault
 
 > [!NOTE] 概要
-> 本Vaultは、日本超音波医学会 (JSUM) 標準ガイドラインおよび腹部超音波テキストに完全準拠した臨床実践・専門知識データベースです。臨床で最も使いやすい**「肝 ➔ 胆 ➔ 膵 ➔ 腎・脾 ➔ 消化管 ➔ 血管」** の系統的順序で構成されています。
+> 本Vaultは、日本超音波医学会 (JSUM) 標準ガイドラインおよび腹部超音波テキストに完全準拠した臨床実践・専門知識データベースです。臨床で最も使いやすい**全7領域の標準順序（「1.肝 ➔ 2.胆 ➔ 3.膵 ➔ 4.腎 ➔ 5.脾 ➔ 6.消化管・血管 ➔ 7.その他・全身性疾患」）** で構成されています。
 
 ---
 
-## 🗺️ Master Index (系統別目次構造マップ)
+## 🗺️ Master Index (全7領域 系統別目次構造マップ)
 
 ![[master_index_map.png]]
 
@@ -48,17 +48,21 @@
 - [[03_diseases/11_pancreas_cystic|★ 膵嚢胞性腫瘍 (IPMN / MCN / SCN): Fukuoka/Kyotoガイドライン High-risk stigmata]]
 - [[03_diseases/12_pancreas_pancreatitis|★ 急性・慢性膵炎: 仮性嚢胞 (Pseudocyst)・膵石・主膵管数珠状拡張]]
 
-### 4. 腎臓・脾臓領域 (Renal & Spleen)
+### 4. 腎臓領域 (Renal)
 - [[03_diseases/13_kidney_hydronephrosis|★ 水腎症 (Hydronephrosis): SFU Grade 1〜4・実質菲薄化・Twinkling Artifact]]
 
-### 5. 消化管領域 (GI Tract)
+### 5. 脾臓領域 (Spleen)
+- [[03_diseases/02_liver_cirrhosis#2-門脈高血圧症-portal-hypertension-の血流動態評価|★ 脾腫 (Splenomegaly): 脾指数 ≧ 20cm²・門脈高血圧症所見]]
+
+### 6. 消化管・血管領域 (GI Tract & Vessels)
 - [[03_diseases/14_gi_appendicitis|★ 急性虫垂炎 (Acute Appendicitis): 段階的圧迫技法・外径6mm・病理期別]]
 - [[03_diseases/15_gi_ileus|★ 腸閉塞・イレウス (Ileus): Key-board Sign・To-and-fro運動・絞扼性サイン]]
-
-### 6. 血管・その他領域 (Vessels & Others)
 - [[03_diseases/16_vessels_aaa|★ 腹部大動脈瘤 (AAA)・大動脈解離: Outer-to-Outer二重計測・破裂リスク]]
 - [[03_diseases/17_vessels_nutcracker|★ ナットクラッカー症候群 (Nutcracker): SMA分岐角・左腎静脈狭窄比]]
 - [[03_diseases/18_vessels_mals|★ 正中弓状靭帯圧迫症候群 (MALS): 腹腔動脈Hook像・呼気/吸気PSV変化]]
+
+### 7. その他・全身性疾患 (Others & Systemic)
+- [[03_diseases/19_others_igg4_rd|★ IgG4関連疾患 (IgG4-RD): 自己免疫性膵炎 AIP / 硬化性胆管炎 SC / 腎病変 RKD / 後腹膜線維症 RPF]]
 
 ---
 
