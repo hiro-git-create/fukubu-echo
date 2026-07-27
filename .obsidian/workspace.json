@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5565c7076e442412",
+        "id": "0dc7d0abd072dccd",
         "type": "tabs",
         "children": [
           {
-            "id": "599c9e299db851f8",
+            "id": "33c32186d10f7c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/胆道_胆嚢ポリープ・腺筋腫症.md",
+                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/消化管_急性虫垂炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "胆道_胆嚢ポリープ・腺筋腫症"
+              "title": "消化管_急性虫垂炎"
             }
           }
         ]
@@ -183,12 +183,26 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "599c9e299db851f8",
+  "active": "33c32186d10f7c20",
   "lastOpenFiles": [
+    "sort_disease_files.py",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/血管_腹部大動脈瘤.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/血管_正中弓状靭帯圧迫症候群_MALS.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/血管_ナットクラッカー症候群.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_転移性肝がん.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/腎臓_水腎症.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_脂肪肝.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝細胞がん.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝硬変.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
+    "腹部超音波検査_教科書/04_実践スクリーニング・計測/スクリーニングチェックリスト.md",
+    "腹部超音波検査_教科書/02_臓器別解剖と標準描出/肝臓_解剖と描出法.md",
+    "腹部超音波検査_教科書/00_MOC_目次.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵腫瘤性病変_固形および嚢胞性分類.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵嚢胞性腫瘍.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/胆道_胆嚢ポリープ・腺筋腫症.md",
     "generate_golden_ratio_flowcharts.py",
     "腹部超音波検査_教科書/03_疾患別超音波所見/胆道_胆石症.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵腫瘤性病変_固形および嚢胞性分類.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/胆道_胆嚢ポリープ・腺筋腫症.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_急性・慢性膵炎.md",
     "fukubu-echo/腹部超音波検査_教科書/04_実践スクリーニング・計測/超音波標準計測手技マニュアル.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/血管_腹部大動脈瘤.md",
@@ -198,15 +212,6 @@
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵嚢胞性腫瘍.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵がん.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_急性・慢性膵炎.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/腎臓_水腎症.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/胆道_胆嚢ポリープ・腺筋腫症.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/胆道_急性・慢性胆嚢炎.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_転移性肝がん.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_脂肪肝.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝硬変.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/消化管_腸閉塞・イレウス.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/消化管_急性虫垂炎.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/pancreatic_mass_classification.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
@@ -214,7 +219,6 @@
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/cholecystitis_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images",
-    "fukubu-echo/腹部超音波検査_教科書/01_基本事項・走査法/アーチファクトと対処法.md",
     "fukubu-echo/wipe_and_rebuild_clean.py",
     "fukubu-echo/safe_encoding_fix_only.py",
     "fukubu-echo/generate_perfect_fit_flowcharts.py",
@@ -223,13 +227,9 @@
     "fukubu-echo/generate_flowchart_image.py",
     "fukubu-echo/generate_all_flowchart_images.py",
     "fukubu-echo/fukubu-echo",
-    "fukubu-echo/fix_mermaid_syntax.py",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵がん.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/images/gb_polyps_adm_flowchart.png",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
-    "腹部超音波検査_教科書/02_臓器別解剖と標準描出/腎臓・副腎_解剖と描出法.md"
+    "腹部超音波検査_教科書/03_疾患別超音波所見/images/gb_polyps_adm_flowchart.png"
   ]
 }

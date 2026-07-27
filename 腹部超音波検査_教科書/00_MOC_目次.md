@@ -1,56 +1,85 @@
-﻿# 腹部超音波テキスト (日本超音波医学会 / JSUM準拠 Vault MOC)
+# 腹部超音波検査 (Abdominal Ultrasound) Master Index & Protocol Vault
 
 > [!NOTE] 概要
-> 本ドキュメントは、日本超音波医学会および日本超音波検査学会の標準テキスト『腹部超音波テキスト』の章立て・解説体系・標準用語・計測基準に100%準拠した、超音波検査士・臨床検査技師・医師のための決定版Obsidian Vaultです。
+> 本Vaultは、日本超音波医学会 (JSUM) 標準ガイドラインおよび腹部超音波テキストに完全準拠した臨床実践・専門知識データベースです。臨床で最も使いやすい**「肝 ➔ 胆 ➔ 膵 ➔ 腎・脾 ➔ 消化管 ➔ 血管」** の系統的順序で構成されています。
 
 ---
 
-## 🗺️ コンテンツマップ (Map of Content)
+## 🗺️ Master Index (系統別目次)
 
-### 📖 第1章：超音波診断の基礎と装置設定
-* [[01_基本事項・走査法/基礎知識・プローブ選択|1-1. 探触子(プローブ)の選択と装置設定]]
-* [[01_基本事項・走査法/腹部基本描出断面・走査手順|1-2. JSUM標準走査手順と基本アプローチ]]
-* [[01_基本事項・走査法/アーチファクトと対処法|1-3. 声響アーチファクトの解釈と臨床活用プロトコル]]
+```mermaid
+graph TD
+    MOC["腹部超音波検査 教科書 (Master Index)"]
+    
+    MOC --> Ch1["01. 基本事項・走査法"]
+    MOC --> Ch2["02. 臓器別解剖と標準描出 (肝➔胆➔膵➔腎脾)"]
+    MOC --> Ch3["03. 疾患別超音波所見 (詳細プロトコル)"]
+    MOC --> Ch4["04. 実践スクリーニング・計測手技"]
 
-### 🫀 第2章：臓器別標準解剖と描出法
-* [[02_臓器別解剖と標準描出/肝臓_解剖と描出法|2-1. 肝臓：Couinaud区分と血管ランドマーク]]
-* [[02_臓器別解剖と標準描出/胆嚢・胆管_解剖と描出法|2-2. 胆道：胆嚢・胆管の立体構造と標準描出]]
-* [[02_臓器別解剖と標準描出/膵臓_解剖と描出法|2-3. 膵臓：解剖学的ランドマークと難描出対策]]
-* [[02_臓器別解剖と標準描出/腎臓・副腎_解剖と描出法|2-4. 腎臓・副腎：CEC・皮質・髄質と観察アプローチ]]
-* [[02_臓器別解剖と標準描出/消化管_解剖と描出法|2-5. 消化管：基本5層構造と走査法]]
-* [[02_臓器別解剖と標準描出/腹部血管・後腹膜_解剖と描出法|2-6. 脈管・後腹膜：Aorta・IVC・門脈系の走行]]
+    subgraph Order ["【 疾患別 臨床標準ソート 】"]
+        Ch3 --> Liver["1. 肝臓領域 (Liver)"]
+        Ch3 --> Biliary["2. 胆道領域 (Biliary)"]
+        Ch3 --> Pancreas["3. 膵臓領域 (Pancreas)"]
+        Ch3 --> KidneySpleen["4. 腎臓・脾臓領域 (Renal & Spleen)"]
+        Ch3 --> GI["5. 消化管領域 (GI Tract)"]
+        Ch3 --> Vessels["6. 血管・その他 (Vessels & Others)"]
+    end
+```
 
-### 🩺 第3章：疾患別超詳細超音波診断プロトコル (JSUM判定基準)
+---
 
-#### 🟢 肝臓疾患 (Liver)
-* [[03_疾患別超音波所見/肝臓_脂肪肝|脂肪肝 (ATI/UAP定量, SWE線維化, Focal Sparing解剖)]]
-* [[03_疾患別超音波所見/肝臓_肝硬変|肝硬変 (表面凹凸, C/RL比>0.65, 門脈高血圧症, HV波形)]]
-* [[03_疾患別超音波所見/肝臓_肝細胞がん|肝細胞がん (HCC: Halo, モザイク, Sonazoid CEUS, Vp1-4)]]
-* [[03_疾患別超音波所見/肝臓_肝血管腫|肝血管腫 (Marginal strong echo sign, Chameleon, 無血流)]]
-* [[03_疾患別超音波所見/肝臓_転移性肝がん|転移性肝がん (Target / Bull's eye sign, 原発巣別像)]]
+## 01. 基本事項・走査法 (Basics & Technique)
+- [[01_basics/probe_selection|★ 基礎知識・プローブ選択 (コンベックス/リニア/シチュエーション)]]
+- [[01_basics/scanning_protocol|★ 腹部基本描出断面・走査手順 (12断面標準プロトコル)]]
+- [[01_basics/artifacts|★ アーチファクトと対処法 (音響陰影/後方エコー増強/多重反射/鏡像)]]
 
-#### 🟡 胆道疾患 (Biliary)
-* [[03_疾患別超音波所見/胆道_胆石症|胆石症 (超音波三徴・WES sign・4極鑑別マトリックス)]]
-* [[03_疾患別超音波所見/胆道_急性・慢性胆嚢炎|急性・慢性胆嚢炎 (TG18/13・超音波Murphy徴候・壊疽性)]]
-* [[03_疾患別超音波所見/胆道_胆嚢ポリープ・腺筋腫症|胆嚢ポリープ・胆嚢腺筋腫症 (ADM Comet-tail / 10mm基準)]]
+---
 
-#### 🔵 膵臓疾患 (Pancreas)
-* [[03_疾患別超音波所見/膵臓_膵腫瘤性病変_固形および嚢胞性分類|★ 膵腫瘤性病変 完全判定プロトコル (固形 vs 嚢胞性分類)]]
-* [[03_疾患別超音波所見/膵臓_膵がん|通常型膵がん PDAC (直接像・Double duct sign・間接所見)]]
-* [[03_疾患別超音波所見/膵臓_膵嚢胞性腫瘍|膵嚢胞性腫瘍 (IPMN Worrisome features / MCN / SCN)]]
-* [[03_疾患別超音波所見/膵臓_急性・慢性膵炎|急性・慢性膵炎 (Balthazar分類・仮性嚢胞・膵石・数珠状)]]
+## 02. 臓器別解剖と標準描出 (Anatomy & Standard Views)
+1. **肝臓**: [[02_anatomy/liver_anatomy|★ 肝臓：Couinaudの8区域・門脈系解剖と描出法]]
+2. **胆道**: [[02_anatomy/gallbladder_anatomy|★ 胆嚢・胆管：解剖と描出法]]
+3. **膵臓**: [[02_anatomy/pancreas_anatomy|★ 膵臓：解剖（頭・体・尾部）と描出法]]
+4. **腎臓・副腎**: [[02_anatomy/kidney_anatomy|★ 腎臓・副腎：解剖と描出法]]
+5. **消化管**: [[02_anatomy/gi_anatomy|★ 消化管：層構造と標準描出]]
+6. **血管**: [[02_anatomy/vessels_anatomy|★ 腹部血管・後腹膜：解剖と描出法]]
 
-#### 🟣 腎・泌尿器疾患 (Renal)
-* [[03_疾患別超音波所見/腎臓_水腎症|水腎症 (SFU Grade 1～4・実質<10mm・Twinkling)]]
+---
 
-#### 🟠 消化管・脈管・血管異常 (GI & Vascular)
-* [[03_疾患別超音波所見/消化管_急性虫垂炎|急性虫垂炎 (Graded Compression・外径>6mm・期別分類)]]
-* [[03_疾患別超音波所見/消化管_腸閉塞・イレウス|腸閉塞 (Keyboard sign・To-and-fro蠕動・絞扼性)]]
-* [[03_疾患別超音波所見/血管_腹部大動脈瘤|腹部大動脈瘤 (AAA: Outer-to-Outer 3.0cm基準・解離)]]
-* [[03_疾患別超音波所見/血管_ナットクラッカー症候群|ナットクラッカー症候群 (SMA角<35°・径比>4.0・流速比>4.0)]]
-* [[03_疾患別超音波所見/血管_正中弓状靭帯圧迫症候群_MALS|正中弓状靭帯圧迫症候群 MALS (呼気/吸気 PSV > 200cm/s)]]
+## 03. 疾患別超音波所見 (Diseases Protocol)
 
-### 📐 第4章：実践計測・スクリーニング基準
-* [[04_実践スクリーニング・計測/超音波標準計測手技マニュアル|4-1. 日本超音波医学会(JSUM)標準計測手技マニュアル]]
-* [[04_実践スクリーニング・計測/腹部超音波計測値一覧|4-2. 腹部超音波標準計測値・カットオフ一覧]]
-* [[04_実践スクリーニング・計測/スクリーニングチェックリスト|4-3. 超音波スクリーニング完全チェックリスト]]
+### 1. 肝臓領域 (Liver)
+- [[03_diseases/01_liver_fatty|★ 脂肪肝 (Fatty Liver / MASLD): 4大サイン・減衰係数ATI/UAP・Focal Sparing]]
+- [[03_diseases/02_liver_cirrhosis|★ 肝硬変 (Liver Cirrhosis): C/RL比・門脈高血圧症・SWEエラストグラフィ]]
+- [[03_diseases/03_liver_hcc|★ 肝細胞がん (HCC): Halo・モザイクパターン・Sonazoid CEUS・門脈腫瘍栓Vp]]
+- [[03_diseases/04_liver_hemangioma|★ 肝血管腫 (Hemangioma): Marginal strong echo・カメレオンサイン・低流速PRF]]
+- [[03_diseases/05_liver_metastasis|★ 転移性肝がん (Metastatic Tumor): Target/Bull's eye sign・原発巣別特徴]]
+
+### 2. 胆道領域 (Biliary Tract)
+- [[03_diseases/06_biliary_stones|★ 胆石症 (Gallstones): 胆石三徴・WES sign・4極鑑別マトリックス]]
+- [[03_diseases/07_biliary_cholecystitis|★ 急性・慢性胆嚢炎: TG18診断基準・超音波Murphy徴候・壊疽性/気腫性]]
+- [[03_diseases/08_biliary_polyps_adm|★ 胆嚢ポリープ・腺筋腫症 (ADM): 10mmルール・ADM 3型・Comet-tail]]
+
+### 3. 膵臓領域 (Pancreas)
+- [[03_diseases/09_pancreas_mass_classification|★ 【決定版】膵腫瘤性病変 完全判定プロトコル (固形 vs 嚢胞性分類)]]
+- [[03_diseases/10_pancreas_cancer|★ 膵がん (PDAC): 直接所見・主膵管拡張・Double Duct Sign]]
+- [[03_diseases/11_pancreas_cystic|★ 膵嚢胞性腫瘍 (IPMN / MCN / SCN): Fukuoka/Kyotoガイドライン High-risk stigmata]]
+- [[03_diseases/12_pancreas_pancreatitis|★ 急性・慢性膵炎: 仮性嚢胞 (Pseudocyst)・膵石・主膵管数珠状拡張]]
+
+### 4. 腎臓・脾臓領域 (Renal & Spleen)
+- [[03_diseases/13_kidney_hydronephrosis|★ 水腎症 (Hydronephrosis): SFU Grade 1〜4・実質菲薄化・Twinkling Artifact]]
+
+### 5. 消化管領域 (GI Tract)
+- [[03_diseases/14_gi_appendicitis|★ 急性虫垂炎 (Acute Appendicitis): 段階的圧迫技法・外径6mm・病理期別]]
+- [[03_diseases/15_gi_ileus|★ 腸閉塞・イレウス (Ileus): Key-board Sign・To-and-fro運動・絞扼性サイン]]
+
+### 6. 血管・その他領域 (Vessels & Others)
+- [[03_diseases/16_vessels_aaa|★ 腹部大動脈瘤 (AAA)・大動脈解離: Outer-to-Outer二重計測・破裂リスク]]
+- [[03_diseases/17_vessels_nutcracker|★ ナットクラッカー症候群 (Nutcracker): SMA分岐角・左腎静脈狭窄比]]
+- [[03_diseases/18_vessels_mals|★ 正中弓状靭帯圧迫症候群 (MALS): 腹腔動脈Hook像・呼気/吸気PSV変化]]
+
+---
+
+## 04. 実践スクリーニング・計測手技 (Measurements & Screening)
+- [[04_measurements/measurement_manual|★ JSUM標準計測手技マニュアル (AAA/胆嚢前壁/CBD/MPD/脾指数)]]
+- [[04_measurements/reference_values|★ 腹部超音波標準計測値・カットオフ一覧]]
+- [[04_measurements/screening_checklist|★ 腹部スクリーニング・チェックリスト]]
