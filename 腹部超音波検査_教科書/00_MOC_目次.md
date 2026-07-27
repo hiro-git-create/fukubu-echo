@@ -7,7 +7,7 @@
 
 ## 🗺️ Master Index (系統別目次構造マップ)
 
-![Master Index 構造マップ](03_diseases/images/master_index_map.png)
+![[master_index_map.png]]
 
 ---
 
