@@ -185,6 +185,7 @@
   },
   "active": "33c32186d10f7c20",
   "lastOpenFiles": [
+    "generate_perfect_table_image.py",
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/images/reference_values_table.png",
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/images",
     "generate_table_image.py",
@@ -229,7 +230,6 @@
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/gb_polyps_adm_flowchart.png",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/cholecystitis_flowchart.png",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png"
+    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/cholecystitis_flowchart.png"
   ]
 }
