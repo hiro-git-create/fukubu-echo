@@ -25,14 +25,11 @@
 
 ## 2. 超音波診断基準 (Ultrasound Diagnostic Criteria)
 
-```text
- ┌────────────────────────────────────────────────────────┐
- │ 1. 呼気時最高血流速度 (Expiration PSV): > 200 cm/s     │
- │ 2. 吸気時流速の改善: 深吸気で PSV が正常化 (< 200 cm/s) │
- │ 3. 呼気時フック像 (Hook-like Configuration): Bモード屈曲│
- │ 4. 吸気時/呼気時 PSV 比 (Expiration/Inspiration Ratio): > 3.0│
- └────────────────────────────────────────────────────────┘
-```
+> [!IMPORTANT] 要点・チェックポイント
+> │ 1. 呼気時最高血流速度 (Expiration PSV): > 200 cm/s
+> │ 2. 吸気時流速の改善: 深吸気で PSV が正常化 (< 200 cm/s)
+> │ 3. 呼気時フック像 (Hook-like Configuration): Bモード屈曲
+> │ 4. 吸気時/呼気時 PSV 比 (Expiration/Inspiration Ratio): > 3.0
 
 | 項目 | 正常例 | MALS 判定陽性基準 |
 | :--- | :--- | :--- |
