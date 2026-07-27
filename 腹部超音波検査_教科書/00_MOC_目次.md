@@ -5,26 +5,9 @@
 
 ---
 
-## 🗺️ Master Index (系統別目次)
+## 🗺️ Master Index (系統別目次構造マップ)
 
-```mermaid
-graph TD
-    MOC["腹部超音波検査 教科書 (Master Index)"]
-    
-    MOC --> Ch1["01. 基本事項・走査法"]
-    MOC --> Ch2["02. 臓器別解剖と標準描出 (肝➔胆➔膵➔腎脾)"]
-    MOC --> Ch3["03. 疾患別超音波所見 (詳細プロトコル)"]
-    MOC --> Ch4["04. 実践スクリーニング・計測手技"]
-
-    subgraph Order ["【 疾患別 臨床標準ソート 】"]
-        Ch3 --> Liver["1. 肝臓領域 (Liver)"]
-        Ch3 --> Biliary["2. 胆道領域 (Biliary)"]
-        Ch3 --> Pancreas["3. 膵臓領域 (Pancreas)"]
-        Ch3 --> KidneySpleen["4. 腎臓・脾臓領域 (Renal & Spleen)"]
-        Ch3 --> GI["5. 消化管領域 (GI Tract)"]
-        Ch3 --> Vessels["6. 血管・その他 (Vessels & Others)"]
-    end
-```
+![Master Index 構造マップ](03_diseases/images/master_index_map.png)
 
 ---
 

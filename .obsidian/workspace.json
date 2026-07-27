@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/消化管_急性虫垂炎.md",
+                "file": "腹部超音波検査_教科書/00_MOC_目次.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "消化管_急性虫垂炎"
+              "title": "00_MOC_目次"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "33c32186d10f7c20",
   "lastOpenFiles": [
+    "腹部超音波検査_教科書/03_疾患別超音波所見/images/master_index_map.png",
+    "generate_moc_map_image.py",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/消化管_急性虫垂炎.md",
     "sort_disease_files.py",
     "腹部超音波検査_教科書/03_疾患別超音波所見/血管_腹部大動脈瘤.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/血管_正中弓状靭帯圧迫症候群_MALS.md",
@@ -211,7 +214,6 @@
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵腫瘤性病変_固形および嚢胞性分類.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵嚢胞性腫瘍.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵がん.md",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_急性・慢性膵炎.md",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/pancreatic_mass_classification.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
@@ -225,8 +227,6 @@
     "fukubu-echo/generate_more_large_flowcharts.py",
     "fukubu-echo/generate_large_text_flowcharts.py",
     "fukubu-echo/generate_flowchart_image.py",
-    "fukubu-echo/generate_all_flowchart_images.py",
-    "fukubu-echo/fukubu-echo",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
