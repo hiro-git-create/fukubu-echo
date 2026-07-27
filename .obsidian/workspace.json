@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/18_血管_正中弓状靭帯圧迫症候群_MALS.md",
+                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/16_血管_腹部大動脈瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18_血管_正中弓状靭帯圧迫症候群_MALS"
+              "title": "16_血管_腹部大動脈瘤"
             }
           }
         ]
@@ -185,11 +185,16 @@
   },
   "active": "33c32186d10f7c20",
   "lastOpenFiles": [
+    "腹部超音波検査_教科書/03_疾患別超音波所見/19_others_igg4_rd.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/20_その他_IgG4関連疾患.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/19_血管_SMA症候群.md",
+    "fix_sort_vessels_others.py",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/16_血管_腹部大動脈瘤.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/17_血管_ナットクラッカー症候群.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/18_血管_正中弓状靭帯圧迫症候群_MALS.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/sma_syndrome_flowchart.png",
     "generate_sma_image.py",
     "腹部超音波検査_教科書/03_疾患別超音波所見/20_血管_SMA症候群.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/17_血管_ナットクラッカー症候群.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/18_血管_正中弓状靭帯圧迫症候群_MALS.md",
     "remove_all_ascii_boxes.py",
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/02_腹部超音波標準計測値一覧.md",
     "generate_perfect_table_image.py",
@@ -205,7 +210,6 @@
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/超音波標準計測手技マニュアル.md",
     "腹部超音波検査_教科書/04_measurements/screening_checklist.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/igg4_rd_flowchart.png",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/19_others_igg4_rd.md",
     "merge_to_japanese.py",
     "rename_all_to_japanese.py",
     "腹部超音波検査_教科書/04_measurements/reference_values.md",
@@ -220,16 +224,12 @@
     "腹部超音波検査_教科書/03_疾患別超音波所見/02_肝臓_肝硬変.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/01_肝臓_脂肪肝.md",
     "腹部超音波検査_教科書/03_diseases/19_others_igg4_rd.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/16_血管_腹部大動脈瘤.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/11_膵臓_膵嚢胞性腫瘍.md",
-    "sort_obsidian_left_tree_fixed.py",
     "腹部超音波検査_教科書/03_diseases/images/igg4_rd_flowchart.png",
     "腹部超音波検査_教科書/03_diseases/images/master_index_map.png",
     "腹部超音波検査_教科書/03_疾患別超音波所見/images/master_index_map.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/pancreatic_mass_classification.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png",
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/hydronephrosis_sfu_flowchart.png",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/gb_polyps_adm_flowchart.png",
-    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/cholecystitis_flowchart.png"
+    "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images/gb_polyps_adm_flowchart.png"
   ]
 }
