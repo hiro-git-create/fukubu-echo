@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
+                "file": "腹部超音波検査_教科書/03_diseases/19_others_igg4_rd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肝臓_肝血管腫"
+              "title": "19_others_igg4_rd"
             }
           }
         ]
@@ -185,13 +185,15 @@
   },
   "active": "33c32186d10f7c20",
   "lastOpenFiles": [
+    "generate_fixed_no_overlap_images.py",
+    "腹部超音波検査_教科書/00_MOC_目次.md",
+    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
     "腹部超音波検査_教科書/03_diseases/images/igg4_rd_flowchart.png",
     "腹部超音波検査_教科書/03_diseases/images/master_index_map.png",
     "腹部超音波検査_教科書/03_diseases/images",
     "generate_7section_images.py",
     "腹部超音波検査_教科書/03_diseases/19_others_igg4_rd.md",
     "腹部超音波検査_教科書/03_diseases",
-    "腹部超音波検査_教科書/00_MOC_目次.md",
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/腹部超音波計測値一覧.md",
     "generate_perfect_moc_map.py",
     "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵がん.md",
@@ -207,7 +209,6 @@
     "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_脂肪肝.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝細胞がん.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝硬変.md",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/肝臓_肝血管腫.md",
     "腹部超音波検査_教科書/04_実践スクリーニング・計測/スクリーニングチェックリスト.md",
     "腹部超音波検査_教科書/02_臓器別解剖と標準描出/肝臓_解剖と描出法.md",
     "腹部超音波検査_教科書/03_疾患別超音波所見/膵臓_膵腫瘤性病変_固形および嚢胞性分類.md",
@@ -229,7 +230,6 @@
     "fukubu-echo/腹部超音波検査_教科書/03_疾患別超音波所見/images",
     "fukubu-echo/wipe_and_rebuild_clean.py",
     "fukubu-echo/safe_encoding_fix_only.py",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png",
-    "腹部超音波検査_教科書/03_疾患別超音波所見/images/liver_fatty_flowchart.png"
+    "腹部超音波検査_教科書/03_疾患別超音波所見/images/appendicitis_flowchart.png"
   ]
 }
