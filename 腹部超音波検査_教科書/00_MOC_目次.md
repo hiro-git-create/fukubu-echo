@@ -11,62 +11,62 @@
 
 ---
 
-## 01. 基本事項・走査法 (Basics & Technique)
-- [[01_basics/probe_selection|★ 基礎知識・プローブ選択 (コンベックス/リニア/シチュエーション)]]
-- [[01_basics/scanning_protocol|★ 腹部基本描出断面・走査手順 (12断面標準プロトコル)]]
-- [[01_basics/artifacts|★ アーチファクトと対処法 (音響陰影/後方エコー増強/多重反射/鏡像)]]
+## 01. 基本事項・走査法
+- [[01_基本事項・走査法/01_基礎知識・プローブ選択|★ 基礎知識・プローブ選択 (コンベックス/リニア/シチュエーション)]]
+- [[01_基本事項・走査法/02_腹部基本描出断面・走査手順|★ 腹部基本描出断面・走査手順 (12断面標準プロトコル)]]
+- [[01_基本事項・走査法/03_アーチファクトと対処法|★ アーチファクトと対処法 (音響陰影/後方エコー増強/多重反射/鏡像)]]
 
 ---
 
-## 02. 臓器別解剖と標準描出 (Anatomy & Standard Views)
-1. **肝臓**: [[02_anatomy/liver_anatomy|★ 肝臓：Couinaudの8区域・門脈系解剖と描出法]]
-2. **胆道**: [[02_anatomy/gallbladder_anatomy|★ 胆嚢・胆管：解剖と描出法]]
-3. **膵臓**: [[02_anatomy/pancreas_anatomy|★ 膵臓：解剖（頭・体・尾部）と描出法]]
-4. **腎臓・副腎**: [[02_anatomy/kidney_anatomy|★ 腎臓・副腎：解剖と描出法]]
-5. **消化管**: [[02_anatomy/gi_anatomy|★ 消化管：層構造と標準描出]]
-6. **血管**: [[02_anatomy/vessels_anatomy|★ 腹部血管・後腹膜：解剖と描出法]]
+## 02. 臓器別解剖と標準描出
+1. **肝臓**: [[02_臓器別解剖と標準描出/01_肝臓_解剖と描出法|★ 肝臓：Couinaudの8区域・門脈系解剖と描出法]]
+2. **胆道**: [[02_臓器別解剖と標準描出/02_胆嚢・胆管_解剖と描出法|★ 胆嚢・胆管：解剖と描出法]]
+3. **膵臓**: [[02_臓器別解剖と標準描出/03_膵臓_解剖と描出法|★ 膵臓：解剖（頭・体・尾部）と描出法]]
+4. **腎臓・副腎**: [[02_臓器別解剖と標準描出/04_腎臓・副腎_解剖と描出法|★ 腎臓・副腎：解剖と描出法]]
+5. **消化管**: [[02_臓器別解剖と標準描出/05_消化管_解剖と描出法|★ 消化管：層構造と標準描出]]
+6. **血管**: [[02_臓器別解剖と標準描出/06_腹部血管・後腹膜_解剖と描出法|★ 腹部血管・後腹膜：解剖と描出法]]
 
 ---
 
-## 03. 疾患別超音波所見 (Diseases Protocol)
+## 03. 疾患別超音波所見
 
 ### 1. 肝臓領域 (Liver)
-- [[03_diseases/01_liver_fatty|★ 脂肪肝 (Fatty Liver / MASLD): 4大サイン・減衰係数ATI/UAP・Focal Sparing]]
-- [[03_diseases/02_liver_cirrhosis|★ 肝硬変 (Liver Cirrhosis): C/RL比・門脈高血圧症・SWEエラストグラフィ]]
-- [[03_diseases/03_liver_hcc|★ 肝細胞がん (HCC): Halo・モザイクパターン・Sonazoid CEUS・門脈腫瘍栓Vp]]
-- [[03_diseases/04_liver_hemangioma|★ 肝血管腫 (Hemangioma): Marginal strong echo・カメレオンサイン・低流速PRF]]
-- [[03_diseases/05_liver_metastasis|★ 転移性肝がん (Metastatic Tumor): Target/Bull's eye sign・原発巣別特徴]]
+- [[03_疾患別超音波所見/01_肝臓_脂肪肝|★ 脂肪肝 (Fatty Liver / MASLD): 4大サイン・減衰係数ATI/UAP・Focal Sparing]]
+- [[03_疾患別超音波所見/02_肝臓_肝硬変|★ 肝硬変 (Liver Cirrhosis): C/RL比・門脈高血圧症・SWEエラストグラフィ]]
+- [[03_疾患別超音波所見/03_肝臓_肝細胞がん|★ 肝細胞がん (HCC): Halo・モザイクパターン・Sonazoid CEUS・門脈腫瘍栓Vp]]
+- [[03_疾患別超音波所見/04_肝臓_肝血管腫|★ 肝血管腫 (Hemangioma): Marginal strong echo・カメレオンサイン・低流速PRF]]
+- [[03_疾患別超音波所見/05_肝臓_転移性肝がん|★ 転移性肝がん (Metastatic Tumor): Target/Bull's eye sign・原発巣別特徴]]
 
 ### 2. 胆道領域 (Biliary Tract)
-- [[03_diseases/06_biliary_stones|★ 胆石症 (Gallstones): 胆石三徴・WES sign・4極鑑別マトリックス]]
-- [[03_diseases/07_biliary_cholecystitis|★ 急性・慢性胆嚢炎: TG18診断基準・超音波Murphy徴候・壊疽性/気腫性]]
-- [[03_diseases/08_biliary_polyps_adm|★ 胆嚢ポリープ・腺筋腫症 (ADM): 10mmルール・ADM 3型・Comet-tail]]
+- [[03_疾患別超音波所見/06_胆道_胆石症|★ 胆石症 (Gallstones): 胆石三徴・WES sign・4極鑑別マトリックス]]
+- [[03_疾患別超音波所見/07_胆道_急性・慢性胆嚢炎|★ 急性・慢性胆嚢炎: TG18診断基準・超音波Murphy徴候・壊疽性/気腫性]]
+- [[03_疾患別超音波所見/08_胆道_胆嚢ポリープ・腺筋腫症|★ 胆嚢ポリープ・腺筋腫症 (ADM): 10mmルール・ADM 3型・Comet-tail]]
 
 ### 3. 膵臓領域 (Pancreas)
-- [[03_diseases/09_pancreas_mass_classification|★ 【決定版】膵腫瘤性病変 完全判定プロトコル (固形 vs 嚢胞性分類)]]
-- [[03_diseases/10_pancreas_cancer|★ 膵がん (PDAC): 直接所見・主膵管拡張・Double Duct Sign]]
-- [[03_diseases/11_pancreas_cystic|★ 膵嚢胞性腫瘍 (IPMN / MCN / SCN): Fukuoka/Kyotoガイドライン High-risk stigmata]]
-- [[03_diseases/12_pancreas_pancreatitis|★ 急性・慢性膵炎: 仮性嚢胞 (Pseudocyst)・膵石・主膵管数珠状拡張]]
+- [[03_疾患別超音波所見/09_膵臓_膵腫瘤性病変_固形および嚢胞性分類|★ 【決定版】膵腫瘤性病変 完全判定プロトコル (固形 vs 嚢胞性分類)]]
+- [[03_疾患別超音波所見/10_膵臓_膵がん|★ 膵がん (PDAC): 直接所見・主膵管拡張・Double Duct Sign]]
+- [[03_疾患別超音波所見/11_膵臓_膵嚢胞性腫瘍|★ 膵嚢胞性腫瘍 (IPMN / MCN / SCN): Fukuoka/Kyotoガイドライン High-risk stigmata]]
+- [[03_疾患別超音波所見/12_膵臓_急性・慢性膵炎|★ 急性・慢性膵炎: 仮性嚢胞 (Pseudocyst)・膵石・主膵管数珠状拡張]]
 
 ### 4. 腎臓領域 (Renal)
-- [[03_diseases/13_kidney_hydronephrosis|★ 水腎症 (Hydronephrosis): SFU Grade 1〜4・実質菲薄化・Twinkling Artifact]]
+- [[03_疾患別超音波所見/13_腎臓_水腎症|★ 水腎症 (Hydronephrosis): SFU Grade 1〜4・実質菲薄化・Twinkling Artifact]]
 
 ### 5. 脾臓領域 (Spleen)
-- [[03_diseases/02_liver_cirrhosis#2-門脈高血圧症-portal-hypertension-の血流動態評価|★ 脾腫 (Splenomegaly): 脾指数 ≧ 20cm²・門脈高血圧症所見]]
+- [[03_疾患別超音波所見/02_肝臓_肝硬変#2-門脈高血圧症-portal-hypertension-の血流動態評価|★ 脾腫 (Splenomegaly): 脾指数 ≧ 20cm²・門脈高血圧症所見]]
 
 ### 6. 消化管・血管領域 (GI Tract & Vessels)
-- [[03_diseases/14_gi_appendicitis|★ 急性虫垂炎 (Acute Appendicitis): 段階的圧迫技法・外径6mm・病理期別]]
-- [[03_diseases/15_gi_ileus|★ 腸閉塞・イレウス (Ileus): Key-board Sign・To-and-fro運動・絞扼性サイン]]
-- [[03_diseases/16_vessels_aaa|★ 腹部大動脈瘤 (AAA)・大動脈解離: Outer-to-Outer二重計測・破裂リスク]]
-- [[03_diseases/17_vessels_nutcracker|★ ナットクラッカー症候群 (Nutcracker): SMA分岐角・左腎静脈狭窄比]]
-- [[03_diseases/18_vessels_mals|★ 正中弓状靭帯圧迫症候群 (MALS): 腹腔動脈Hook像・呼気/吸気PSV変化]]
+- [[03_疾患別超音波所見/14_消化管_急性虫垂炎|★ 急性虫垂炎 (Acute Appendicitis): 段階的圧迫技法・外径6mm・病理期別]]
+- [[03_疾患別超音波所見/15_消化管_腸閉塞・イレウス|★ 腸閉塞・イレウス (Ileus): Key-board Sign・To-and-fro運動・絞扼性サイン]]
+- [[03_疾患別超音波所見/16_血管_腹部大動脈瘤|★ 腹部大動脈瘤 (AAA)・大動脈解離: Outer-to-Outer二重計測・破裂リスク]]
+- [[03_疾患別超音波所見/17_血管_ナットクラッカー症候群|★ ナットクラッカー症候群 (Nutcracker): SMA分岐角・左腎静脈狭窄比]]
+- [[03_疾患別超音波所見/18_血管_正中弓状靭帯圧迫症候群_MALS|★ 正中弓状靭帯圧迫症候群 (MALS): 腹腔動脈Hook像・呼気/吸気PSV変化]]
 
 ### 7. その他・全身性疾患 (Others & Systemic)
-- [[03_diseases/19_others_igg4_rd|★ IgG4関連疾患 (IgG4-RD): 自己免疫性膵炎 AIP / 硬化性胆管炎 SC / 腎病変 RKD / 後腹膜線維症 RPF]]
+- [[03_疾患別超音波所見/19_その他_IgG4関連疾患_IgG4_RD|★ IgG4関連疾患 (IgG4-RD): 自己免疫性膵炎 AIP / 硬化性胆管炎 SC / 腎病変 RKD / 後腹膜線維症 RPF]]
 
 ---
 
-## 04. 実践スクリーニング・計測手技 (Measurements & Screening)
-- [[04_measurements/measurement_manual|★ JSUM標準計測手技マニュアル (AAA/胆嚢前壁/CBD/MPD/脾指数)]]
-- [[04_measurements/reference_values|★ 腹部超音波標準計測値・カットオフ一覧]]
-- [[04_measurements/screening_checklist|★ 腹部スクリーニング・チェックリスト]]
+## 04. 実践スクリーニング・計測 (Measurements & Screening)
+- [[04_実践スクリーニング・計測/01_超音波標準計測手技マニュアル|★ 超音波標準計測手技マニュアル (AAA/胆嚢前壁/CBD/MPD/脾指数)]]
+- [[04_実践スクリーニング・計測/02_腹部超音波標準計測値一覧|★ 腹部超音波標準計測値・臨床カットオフバイブル]]
+- [[04_実践スクリーニング・計測/03_スクリーニング・死角克服ハンドブック|★ スクリーニング・死角克服ハンドブック]]
