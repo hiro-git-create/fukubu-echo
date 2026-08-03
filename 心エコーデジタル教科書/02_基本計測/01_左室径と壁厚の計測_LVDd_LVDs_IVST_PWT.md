@@ -71,14 +71,14 @@ $$\text{LVMI} = \frac{\text{LV Mass}}{\text{体表面積 (BSA)}}$$
 
 ```mermaid
 graph TD
-    A[LVMI の評価] -- 正常 (男≤115, 女≤95) --> B{RWT の評価}
-    A -- 肥大あり (男>115, 女>95) --> C{RWT の評価}
+    A["LVMI の評価"] -- 正常 (男≤115, 女≤95) --> B{"RWT の評価"}
+    A -- 肥大あり (男>115, 女>95) --> C{"RWT の評価"}
     
-    B -- RWT ≤ 0.42 --> D[1. 正常形態 (Normal)]
-    B -- RWT > 0.42 --> E[2. 求心性リモデリング (Concentric Remodeling)]
+    B -- RWT ≤ 0.42 --> D["1. 正常形態 (Normal)"]
+    B -- RWT > 0.42 --> E["2. 求心性リモデリング (Concentric Remodeling)"]
     
-    C -- RWT ≤ 0.42 --> F[3. 遠心性肥大 (Eccentric Hypertrophy)]
-    C -- RWT > 0.42 --> G[4. 求心性肥大 (Concentric Hypertrophy)]
+    C -- RWT ≤ 0.42 --> F["3. 遠心性肥大 (Eccentric Hypertrophy)"]
+    C -- RWT > 0.42 --> G["4. 求心性肥大 (Concentric Hypertrophy)"]
 ```
 
 | 分類 | LVMI | RWT | 代表的病態 |

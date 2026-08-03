@@ -68,8 +68,8 @@ PRは生理的にも少量認められますが、**ファロー四徴症 (TOF) 
 
 ```mermaid
 graph TD
-    A[TR / PR のカラードプラ描出] --> B[Vena Contracta の計測]
-    B --> C[CWドプラで Vmax および PHT/波形形状の記録]
-    C --> D[IVC径と呼吸性変動から RAP の推定]
-    D --> E[RVSPの算出および右房・右室拡大度の統合評価]
+    A["TR / PR のカラードプラ描出"] --> B["Vena Contracta の計測"]
+    B --> C["CWドプラで Vmax および PHT/波形形状の記録"]
+    C --> D["IVC径と呼吸性変動から RAP の推定"]
+    D --> E["RVSPの算出および右房・右室拡大度の統合評価"]
 ```

@@ -32,13 +32,13 @@ reference_guideline: ASE 2009 Prosthetic Valve Evaluation Guidelines
 
 ```mermaid
 graph TD
-    A[人工弁高圧較差/高流速の検出] --> B{ドプラ速度指数 DVI を計算}
+    A["人工弁高圧較差/高流速の検出"] --> B{"ドプラ速度指数 DVI を計算"}
     
-    B -- DVI 正常 (> 0.30 for AVR) --> C{有効弁口面積係数 EOAI を確認}
-    B -- DVI 低下 (< 0.25 for AVR) --> D[★ 構造的弁機能不全: 血栓/Pannus/狭窄]
+    B -- DVI 正常 (> 0.30 for AVR) --> C{"有効弁口面積係数 EOAI を確認"}
+    B -- DVI 低下 (< 0.25 for AVR) --> D["★ 構造的弁機能不全: 血栓/Pannus/狭窄"]
     
-    C -- EOAI 小 (< 0.85 cm²/m²) --> E[★ PPM (Patient-Prosthesis Mismatch)]
-    C -- EOAI 正常 (> 0.85 cm²/m²) --> F[高拍出状態 (Hyperdynamic State)]
+    C -- EOAI 小 (< 0.85 cm²/m²) --> E["★ PPM (Patient-Prosthesis Mismatch)"]
+    C -- EOAI 正常 (> 0.85 cm²/m²) --> F["高拍出状態 (Hyperdynamic State)"]
 ```
 
 ### 1) ドプラ速度指数 (DVI: Doppler Velocity Index)

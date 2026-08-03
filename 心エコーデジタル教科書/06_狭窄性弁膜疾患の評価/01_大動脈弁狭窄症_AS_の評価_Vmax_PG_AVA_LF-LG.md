@@ -17,13 +17,13 @@ reference_guideline: ASE/EACVI 2017 Aortic Stenosis Evaluation Guidelines, JCS 2
 
 ```mermaid
 graph TD
-    A[AS の評価項目] --> B[1. 最高血流速度 Vmax (m/s)]
-    A --> C[2. 平均圧較差 Mean PG (mmHg)]
-    A --> D[3. 大動脈弁面積 AVA (cm²)]
+    A["AS の評価項目"] --> B["1. 最高血流速度 Vmax (m/s)"]
+    A --> C["2. 平均圧較差 Mean PG (mmHg)"]
+    A --> D["3. 大動脈弁面積 AVA (cm²)"]
     
-    B --> B1[CWドプラで計測]
-    C --> C1[CWドプラ波形のVTIトレース]
-    D --> D1[連続の式 Continuity Equation で算出]
+    B --> B1["CWドプラで計測"]
+    C --> C1["CWドプラ波形のVTIトレース"]
+    D --> D1["連続の式 Continuity Equation で算出"]
 ```
 
 ### 1) 大動脈弁最高血流速度 ($V_{max}$)

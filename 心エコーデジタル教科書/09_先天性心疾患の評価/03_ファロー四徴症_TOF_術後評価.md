@@ -29,12 +29,12 @@ reference_guideline: JCS 2023 成人先天性心疾患診療ガイドライン
 
 ```mermaid
 graph TD
-    A[術後 TOF の遠隔期評価] --> B[1. 重症肺動脈弁閉鎖不全症 Severe PR]
-    A --> C[2. 右室の進行性容量負荷と拡大]
-    A --> D[3. 残存 RVOT 狭窄・遺残 VSD・大動脈基部拡大]
+    A["術後 TOF の遠隔期評価"] --> B["1. 重症肺動脈弁閉鎖不全症 Severe PR"]
+    A --> C["2. 右室の進行性容量負荷と拡大"]
+    A --> D["3. 残存 RVOT 狭窄・遺残 VSD・大動脈基部拡大"]
     
-    B --> B1[Transannular patch による弁機能不全, PHT < 100ms]
-    C --> C1[右室不全・致死性不整脈 VT リスク ➔ PVR 適応判定]
+    B --> B1["Transannular patch による弁機能不全, PHT < 100ms"]
+    C --> C1["右室不全・致死性不整脈 VT リスク ➔ PVR 適応判定"]
 ```
 
 ### 1) 重症肺動脈弁閉鎖不全症 (Severe PR) ★最大の課題

@@ -17,11 +17,11 @@ reference_guideline: ESC 2023 Infective Endocarditis Guidelines, JCS 2017
 
 ```mermaid
 graph TD
-    A[IE におけるエコー3大主要所見] --> B[1. 疣贅 Vegetation]
-    A --> C[2. 弁周膿瘍 Abscess / 穿孔 Perforation]
-    A --> D[3. 人工弁の弁周漏れ / 離脱]
+    A["IE におけるエコー3大主要所見"] --> B["1. 疣贅 Vegetation"]
+    A --> C["2. 弁周膿瘍 Abscess / 穿孔 Perforation"]
+    A --> D["3. 人工弁の弁周漏れ / 離脱"]
     
-    B --> B1[血流の低圧側に付着, 心周期と独立した高速動態, 不規則高エコー]
+    B --> B1["血流の低圧側に付着, 心周期と独立した高速動態, 不規則高エコー"]
 ```
 
 ### 1) 疣贅の観察特徴

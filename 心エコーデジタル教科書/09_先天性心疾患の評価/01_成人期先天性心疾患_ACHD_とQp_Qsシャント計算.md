@@ -44,8 +44,8 @@ $$\text{Qp/Qs Ratio} = \frac{\text{肺血流量 } Q_p}{\text{体血流量 } Q_s}
 
 ```mermaid
 graph TD
-    A[ACHD 患者のエコー評価] --> B[1. 短絡の位置と方向: L-R or R-L]
-    A --> C[2. シャント比 Qp/Qs の算出]
-    A --> D[3. 心腔拡大・容量負荷の評価: RV/RA or LV/LA]
-    A --> E[4. 肺動脈圧推定: TR Vmax / PR Vmax]
+    A["ACHD 患者のエコー評価"] --> B["1. 短絡の位置と方向: L-R or R-L"]
+    A --> C["2. シャント比 Qp/Qs の算出"]
+    A --> D["3. 心腔拡大・容量負荷の評価: RV/RA or LV/LA"]
+    A --> E["4. 肺動脈圧推定: TR Vmax / PR Vmax"]
 ```

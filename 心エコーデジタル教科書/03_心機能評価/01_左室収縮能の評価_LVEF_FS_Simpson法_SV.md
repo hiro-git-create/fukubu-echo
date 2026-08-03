@@ -76,10 +76,10 @@ $$CO\text{ (L/min)} = \frac{SV \times \text{心拍数 (HR)}}{1000}$$
 
 ```mermaid
 graph LR
-    A[心不全患者のLVEF] --> B[LVEF ≤ 40%: HFrEF 収縮不全]
-    A --> C[LVEF 41〜49%: HFmrEF 軽度低下]
-    A --> D[LVEF ≥ 50%: HFpEF 拡張不全]
-    A --> E[ベースライン≤40%から>40%へ10%以上改善: HFimpEF ★新概念]
+    A["心不全患者のLVEF"] --> B["LVEF ≤ 40%: HFrEF 収縮不全"]
+    A --> C["LVEF 41〜49%: HFmrEF 軽度低下"]
+    A --> D["LVEF ≥ 50%: HFpEF 拡張不全"]
+    A --> E["ベースライン≤40%から>40%へ10%以上改善: HFimpEF ★新概念"]
 ```
 
 - **HFrEF**: LVEF $\le 40\%$ (収縮不全主体)

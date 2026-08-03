@@ -33,15 +33,15 @@ reference_guideline: ASE 2013 TEE Guidelines, JCS
 
 ```mermaid
 graph TD
-    A[中部食道 ME アプローチ] --> B[1. 0°: 4腔断面 ME 4-Chamber]
-    A --> C[2. 45〜60°: 短軸断面 ME Short-Axis]
-    A --> D[3. 80〜100°: 2腔断面 ME 2-Chamber]
-    A --> E[4. 120〜140°: 長軸断面 ME Long-Axis]
+    A["中部食道 ME アプローチ"] --> B["1. 0°: 4腔断面 ME 4-Chamber"]
+    A --> C["2. 45〜60°: 短軸断面 ME Short-Axis"]
+    A --> D["3. 80〜100°: 2腔断面 ME 2-Chamber"]
+    A --> E["4. 120〜140°: 長軸断面 ME Long-Axis"]
     
-    B --> B1[左房・左心耳・僧帽弁・三尖弁の全体像]
-    C --> C1[大動脈弁三葉構造・ASD心房中隔]
-    D --> D1[左前壁・下壁・左心耳深部]
-    E --> E1[LVOT・大動脈弁・大動脈基部]
+    B --> B1["左房・左心耳・僧帽弁・三尖弁の全体像"]
+    C --> C1["大動脈弁三葉構造・ASD心房中隔"]
+    D --> D1["左前壁・下壁・左心耳深部"]
+    E --> E1["LVOT・大動脈弁・大動脈基部"]
 ```
 
 ### 1) 左心耳 (LAA) の血流評価
