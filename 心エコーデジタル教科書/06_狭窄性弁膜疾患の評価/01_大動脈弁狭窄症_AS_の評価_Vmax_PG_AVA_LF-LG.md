@@ -61,12 +61,9 @@ $$\text{AVA (cm}^2) = \frac{LVOT\text{ Area} \times LVOT\text{-VTI}}{AV\text{-VT
 
 ## 3. AS 重症度分類一覧 (ASE/EACVI / JCS 2020)
 
-| 重症度区分 | 大動脈弁最高速度 $V_{max}$ | 平均圧較差 Mean PG | 大動脈弁面積 AVA | 弁面積係数 AVAI |
-| :--- | :--- | :--- | :--- | :--- |
-| **軽度 (Mild)** | $2.6 \sim 2.9 \text{ m/s}$ | $< 20 \text{ mmHg}$ | $> 1.5 \text{ cm}^2$ | $> 0.85 \text{ cm}^2/\text{m}^2$ |
-| **中等度 (Moderate)** | $3.0 \sim 3.9 \text{ m/s}$ | $20 \sim 39 \text{ mmHg}$ | $1.0 \sim 1.5 \text{ cm}^2$ | $0.6 \sim 0.85 \text{ cm}^2/\text{m}^2$ |
-| **重症 (Severe)** | **$\ge 4.0 \text{ m/s}$** | **$\ge 40 \text{ mmHg}$** | **$< 1.0 \text{ cm}^2$** | **$< 0.6 \text{ cm}^2/\text{m}^2$** |
-| **最重症 (Very Severe)**| **$\ge 5.0 \text{ m/s}$** | **$\ge 60 \text{ mmHg}$** | $< 0.6 \text{ cm}^2$ | $< 0.4 \text{ cm}^2/\text{m}^2$ |
+
+![01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG 比較・診断判定表 (1)](..\..\images\auto_table_01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG_1.png)
+
 
 ---
 

@@ -80,11 +80,9 @@ reference_guideline: ASE 2015 Chamber Quantification
 - **タイミング**: 拡張末期（Q波開始時）※バルサルバ洞は収縮期最大径をとる基準もあります。
 - **2D計測**: 前壁内膜〜後壁内膜（Inner-to-inner）または Leading-edge で統一して計測します。
 
-| 部位 | 正常値 (上限目安) | 臨床的意義 |
-| :--- | :--- | :--- |
-| **バルサルバ洞 (Sinus of Valsalva)** | 男性 **$< 40 \text{ mm}$** / 女性 **$< 38 \text{ mm}$** | マルファン症候群、Annuloaortic ectasia (AAE) で拡大 |
-| **STJ (Sinotubular Junction)** | **$< 35 \text{ mm}$** | バルサルバ洞と上行大動脈の移行部くびれ |
-| **上行大動脈 (Ascending Aorta)** | **$< 35 \text{ mm}$** | 大動脈二尖弁 (BAV) や高血圧症で拡大 (＞45mmで瘤) |
+
+![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (1)](..\..\images\auto_table_02_左房_右房_右室_大動脈_IVCの計測_1.png)
+
 
 ---
 
@@ -96,8 +94,6 @@ reference_guideline: ASE 2015 Chamber Quantification
 
 ### 右房圧 (RAP) 推定ガイドライン (ASE 2015)
 
-| IVC最大径 | 呼吸性変動 (Sniff時虚脱率) | 推定右房圧 (RAP) |
-| :---: | :---: | :---: |
-| **$\le 2.1 \text{ cm}$** | **$> 50\%$ (十分な虚脱)** | **$3 \text{ mmHg}$ (正常: 0〜5)** |
-| **$> 2.1 \text{ cm}$** | **$< 50\%$ (虚脱不良)** | **$15 \text{ mmHg}$ (高圧: 10〜20)** |
-| 上記以外（径が大きいが虚脱良好、または小径で虚脱不良） | **$8 \text{ mmHg}$ (中間値: 5〜10)** |
+
+![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (2)](..\..\images\auto_table_02_左房_右房_右室_大動脈_IVCの計測_2.png)
+

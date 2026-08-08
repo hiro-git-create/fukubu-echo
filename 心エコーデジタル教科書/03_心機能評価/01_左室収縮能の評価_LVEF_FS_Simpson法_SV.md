@@ -38,13 +38,9 @@ ASE/EACVIガイドラインにおいて、左室容積および LVEF 算出力�
 
 $$\text{LVEF (\%)} = \frac{\text{LVEDV} - \text{LVESV}}{\text{LVEDV}} \times 100$$
 
-| 計測項目 | 略語 | 男性正常値 | 女性正常値 | 単位 |
-| :--- | :--- | :--- | :--- | :--- |
-| **拡張末期容積** | LVEDV | $62 \sim 150$ | $46 \sim 106$ | mL |
-| **拡張末期容積係数** | LVEDVI | $35 \sim 75$ | $29 \sim 61$ | mL/m² |
-| **収縮末期容積** | LVESV | $21 \sim 61$ | $14 \sim 42$ | mL |
-| **収縮末期容積係数** | LVESVI | $12 \sim 30$ | $8 \sim 24$ | mL/m² |
-| **左室駆出率** | **LVEF** | **$\ge 52$** | **$\ge 54$** | **%** |
+
+![01_左室収縮能の評価_LVEF_FS_Simpson法_SV 比較・診断判定表 (1)](..\..\images\auto_table_01_左室収縮能の評価_LVEF_FS_Simpson法_SV_1.png)
+
 
 ---
 

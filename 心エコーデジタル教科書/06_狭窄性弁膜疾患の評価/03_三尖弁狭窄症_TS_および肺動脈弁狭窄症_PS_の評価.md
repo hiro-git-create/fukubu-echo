@@ -39,17 +39,14 @@ reference_guideline: ASE 2009 Valvular Stenosis Guidelines
 
 簡易ベルヌーイの定理 $\text{Peak PG} = 4 \times (V_{max})^2$ から算出します。
 
-| 重症度区分 | 最高血流速度 $V_{max}$ | 最高圧較差 Peak PG |
-| :--- | :--- | :--- |
-| **軽度 (Mild)** | $< 3.0 \text{ m/s}$ | $< 36 \text{ mmHg}$ |
-| **中等度 (Moderate)** | $3.0 \sim 4.0 \text{ m/s}$ | $36 \sim 64 \text{ mmHg}$ |
-| **重症 (Severe)** | **$> 4.0 \text{ m/s}$** | **$> 64 \text{ mmHg}$** |
+
+![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (1)](..\..\images\auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_1.png)
+
 
 ---
 
 ## 3. 右心系狭窄症評価のまとめ
 
-| 疾患 | 主要評価パラメータ | 重症基準 | 主な原因 |
-| :--- | :--- | :--- | :--- |
-| **TS** | 平均圧較差 (Mean PG) | **$\ge 5 \text{ mmHg}$** | リウマチ熱, カルチノイド |
-| **PS** | 最高血流速度 ($V_{max}$) / Peak PG | **$> 4.0 \text{ m/s}$ ($> 64 \text{ mmHg}$)** | 先天性 (単独 / TOF合併) |
+
+![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (2)](..\..\images\auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_2.png)
+
