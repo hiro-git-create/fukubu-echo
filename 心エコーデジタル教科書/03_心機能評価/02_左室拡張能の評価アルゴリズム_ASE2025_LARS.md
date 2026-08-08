@@ -17,7 +17,7 @@ reference_guideline: ASE 2025 Diastolic Function Guidelines Update
 
 ## ■ ASE 2025 統合型フローチャート図 (2段階Step方式)
 
-![ASE 2025 統合型 左室拡張能評価アルゴリズム](diastolic_algorithm_chart.png)
+![ASE 2025 統合型 左室拡張能評価アルゴリズム](images\diastolic_algorithm_chart.png)
 
 ---
 
