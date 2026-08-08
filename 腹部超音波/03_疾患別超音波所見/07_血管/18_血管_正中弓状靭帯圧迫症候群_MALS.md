@@ -30,11 +30,11 @@
 
 ## 2. 超音波診断基準 (Quantitative Ultrasound Criteria)
 
-![MALS 呼気・吸気流速評価表](../images/mals_matrix_table.png)
+![MALS 呼気・吸気流速評価表](..\images\mals_matrix_table.png)
 
 ### 超音波定量的パラメータ
 
-![18_血管_正中弓状靭帯圧迫症候群_MALS 比較・診断判定表 (1)](..\..\..\images\auto_table_18_血管_正中弓状靭帯圧迫症候群_MALS_1.png)
+![18_血管_正中弓状靭帯圧迫症候群_MALS 比較・診断判定表 (1)](..\images\auto_table_18_血管_正中弓状靭帯圧迫症候群_MALS_1.png)
 
 
 ---
@@ -60,7 +60,7 @@
 ## 4. 鑑別診断マトリックス
 
 
-![18_血管_正中弓状靭帯圧迫症候群_MALS 比較・診断判定表 (2)](..\..\..\images\auto_table_18_血管_正中弓状靭帯圧迫症候群_MALS_2.png)
+![18_血管_正中弓状靭帯圧迫症候群_MALS 比較・診断判定表 (2)](..\images\auto_table_18_血管_正中弓状靭帯圧迫症候群_MALS_2.png)
 
 
 ---

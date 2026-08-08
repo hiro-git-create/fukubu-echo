@@ -31,11 +31,11 @@
 
 上腹部正中縦断像 (AO-SMA長軸像) において、以下の2大解剖学的パラメータを正確に計測します。
 
-![SMA症候群 超音波診断フロー](../images/sma_syndrome_flowchart.png)
+![SMA症候群 超音波診断フロー](..\images\sma_syndrome_flowchart.png)
 
 ### 超音波定量的診断基準
 
-![19_血管_SMA症候群 比較・診断判定表 (1)](..\..\..\images\auto_table_19_血管_SMA症候群_1.png)
+![19_血管_SMA症候群 比較・診断判定表 (1)](..\images\auto_table_19_血管_SMA症候群_1.png)
 
 
 ---
@@ -75,7 +75,7 @@
 ## 5. 鑑別診断マトリックス
 
 
-![19_血管_SMA症候群 比較・診断判定表 (2)](..\..\..\images\auto_table_19_血管_SMA症候群_2.png)
+![19_血管_SMA症候群 比較・診断判定表 (2)](..\images\auto_table_19_血管_SMA症候群_2.png)
 
 
 ---
