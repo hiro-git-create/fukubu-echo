@@ -61,7 +61,7 @@ $$\text{RV FAC (\%)} = \frac{RV\text{EDArea} - RV\text{ESArea}}{RV\text{EDArea}}
 ## 4. 右心機能評価指標の比較まとめ
 
 
-![04_右心機能の評価_TAPSE_RV_FAC_RVs 比較・診断判定表 (1)](..\..\images\auto_table_04_右心機能の評価_TAPSE_RV_FAC_RVs_1.png)
+![04_右心機能の評価_TAPSE_RV_FAC_RVs 比較・診断判定表 (1)](../../images/auto_table_04_右心機能の評価_TAPSE_RV_FAC_RVs_1.png)
 
 
 > [!WARNING]

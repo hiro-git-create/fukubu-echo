@@ -70,5 +70,5 @@ graph TD
 ## 4. 鑑別診断：二次性心肥大との対比
 
 
-![01_肥大型心筋症_HCM_HOCM_SAM 比較・診断判定表 (1)](..\..\images\auto_table_01_肥大型心筋症_HCM_HOCM_SAM_1.png)
+![01_肥大型心筋症_HCM_HOCM_SAM 比較・診断判定表 (1)](../../images/auto_table_01_肥大型心筋症_HCM_HOCM_SAM_1.png)
 

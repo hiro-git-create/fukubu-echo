@@ -30,7 +30,7 @@ $$\text{RVSP (mmHg)} = 4 \times (\text{TR } V_{max})^2 + \text{推定右房圧 (
 ### 3) TR 重症度分類 (ASE 2017)
 
 
-![03_三尖弁逆流症_TR_および肺動脈弁逆流症_PR_の評価 比較・診断判定表 (1)](..\..\images\auto_table_03_三尖弁逆流症_TR_および肺動脈弁逆流症_PR_の評価_1.png)
+![03_三尖弁逆流症_TR_および肺動脈弁逆流症_PR_の評価 比較・診断判定表 (1)](../../images/auto_table_03_三尖弁逆流症_TR_および肺動脈弁逆流症_PR_の評価_1.png)
 
 
 > [!IMPORTANT]

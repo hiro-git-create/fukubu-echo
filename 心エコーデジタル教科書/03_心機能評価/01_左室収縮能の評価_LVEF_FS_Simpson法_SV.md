@@ -39,7 +39,7 @@ ASE/EACVIガイドラインにおいて、左室容積および LVEF 算出力�
 $$\text{LVEF (\%)} = \frac{\text{LVEDV} - \text{LVESV}}{\text{LVEDV}} \times 100$$
 
 
-![01_左室収縮能の評価_LVEF_FS_Simpson法_SV 比較・診断判定表 (1)](..\..\images\auto_table_01_左室収縮能の評価_LVEF_FS_Simpson法_SV_1.png)
+![01_左室収縮能の評価_LVEF_FS_Simpson法_SV 比較・診断判定表 (1)](../../images/auto_table_01_左室収縮能の評価_LVEF_FS_Simpson法_SV_1.png)
 
 
 ---

@@ -33,7 +33,7 @@ flowchart TD
 ## 2. 装置調整（Knobology）の最適化
 
 
-![01_物理・プローブ選択・Knobology 比較・診断判定表 (1)](..\..\images\auto_table_01_物理・プローブ選択・Knobology_1.png)
+![01_物理・プローブ選択・Knobology 比較・診断判定表 (1)](../../images/auto_table_01_物理・プローブ選択・Knobology_1.png)
 
 
 ---

@@ -40,7 +40,7 @@ reference_guideline: ASE 2009 Valvular Stenosis Guidelines
 簡易ベルヌーイの定理 $\text{Peak PG} = 4 \times (V_{max})^2$ から算出します。
 
 
-![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (1)](..\..\images\auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_1.png)
+![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (1)](../../images/auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_1.png)
 
 
 ---
@@ -48,5 +48,5 @@ reference_guideline: ASE 2009 Valvular Stenosis Guidelines
 ## 3. 右心系狭窄症評価のまとめ
 
 
-![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (2)](..\..\images\auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_2.png)
+![03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価 比較・診断判定表 (2)](../../images/auto_table_03_三尖弁狭窄症_TS_および肺動脈弁狭窄症_PS_の評価_2.png)
 

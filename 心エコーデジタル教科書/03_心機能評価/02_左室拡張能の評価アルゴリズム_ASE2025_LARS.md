@@ -17,7 +17,7 @@ reference_guideline: ASE 2025 Diastolic Function Guidelines Update
 
 ## ■ ASE 2025 統合型フローチャート図 (2段階Step方式)
 
-![ASE 2025 統合型 左室拡張能評価アルゴリズム](images\diastolic_algorithm_chart.png)
+![ASE 2025 統合型 左室拡張能評価アルゴリズム](images/diastolic_algorithm_chart.png)
 
 ---
 
@@ -28,13 +28,13 @@ LARSの導入に加え、主要なカットオフ値がアップデートされ�
 ### Step 1 ── 基本指標
 
 
-![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (1)](..\..\images\auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_1.png)
+![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (1)](../../images/auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_1.png)
 
 
 ### Step 2 ── 詳細指標（セカンダリ）
 
 
-![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (2)](..\..\images\auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_2.png)
+![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (2)](../../images/auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_2.png)
 
 
 ---
@@ -72,7 +72,7 @@ Step 1で判定がつかなかった症例に対して、以下の詳細（セ�
 確定した病態は、左室充満圧 (LAP) の状態に応じて以下のように分類されます。
 
 
-![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (3)](..\..\images\auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_3.png)
+![02_左室拡張能の評価アルゴリズム_ASE2025_LARS 比較・診断判定表 (3)](../../images/auto_table_02_左室拡張能の評価アルゴリズム_ASE2025_LARS_3.png)
 
 
 ---

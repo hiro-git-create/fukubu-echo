@@ -81,7 +81,7 @@ reference_guideline: ASE 2015 Chamber Quantification
 - **2D計測**: 前壁内膜〜後壁内膜（Inner-to-inner）または Leading-edge で統一して計測します。
 
 
-![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (1)](..\..\images\auto_table_02_左房_右房_右室_大動脈_IVCの計測_1.png)
+![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (1)](../../images/auto_table_02_左房_右房_右室_大動脈_IVCの計測_1.png)
 
 
 ---
@@ -95,5 +95,5 @@ reference_guideline: ASE 2015 Chamber Quantification
 ### 右房圧 (RAP) 推定ガイドライン (ASE 2015)
 
 
-![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (2)](..\..\images\auto_table_02_左房_右房_右室_大動脈_IVCの計測_2.png)
+![02_左房_右房_右室_大動脈_IVCの計測 比較・診断判定表 (2)](../../images/auto_table_02_左房_右房_右室_大動脈_IVCの計測_2.png)
 

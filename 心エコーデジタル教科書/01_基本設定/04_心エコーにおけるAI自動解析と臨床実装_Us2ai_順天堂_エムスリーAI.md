@@ -66,7 +66,7 @@ reference_guideline: AHA 2024 Late-Breaking Science (AI-ECHO RCT) / Juntendo Uni
 ### ■ 主な研究成果と臨床インパクト
 
 
-![04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI 比較・診断判定表 (1)](..\..\images\auto_table_04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI_1.png)
+![04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI 比較・診断判定表 (1)](../../images/auto_table_04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI_1.png)
 
 
 > [!IMPORTANT]
@@ -93,5 +93,5 @@ reference_guideline: AHA 2024 Late-Breaking Science (AI-ECHO RCT) / Juntendo Uni
 ## 5. 臨床で押さえるべきポイントまとめ
 
 
-![04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI 比較・診断判定表 (2)](..\..\images\auto_table_04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI_2.png)
+![04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI 比較・診断判定表 (2)](../../images/auto_table_04_心エコーにおけるAI自動解析と臨床実装_Us2ai_順天堂_エムスリーAI_2.png)
 

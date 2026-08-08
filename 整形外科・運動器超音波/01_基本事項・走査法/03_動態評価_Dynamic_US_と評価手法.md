@@ -31,4 +31,4 @@ flowchart TD
 ## 2. 代表的な動態テスト手技
 
 
-![03_動態評価_Dynamic_US_と評価手法 比較・診断判定表 (1)](..\..\images\auto_table_03_動態評価_Dynamic_US_と評価手法_1.png)
+![03_動態評価_Dynamic_US_と評価手法 比較・診断判定表 (1)](../../images/auto_table_03_動態評価_Dynamic_US_と評価手法_1.png)

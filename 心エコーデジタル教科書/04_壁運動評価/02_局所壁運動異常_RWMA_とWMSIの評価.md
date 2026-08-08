@@ -18,7 +18,7 @@ reference_guideline: ASE 2015 Chamber Quantification
 評価は「心筋の内側への移動 (Inward displacement)」だけでなく、**「収縮期の心筋壁厚の増加 (Systolic Wall Thickening)」** を総合して判定します。
 
 
-![02_局所壁運動異常_RWMA_とWMSIの評価 比較・診断判定表 (1)](..\..\images\auto_table_02_局所壁運動異常_RWMA_とWMSIの評価_1.png)
+![02_局所壁運動異常_RWMA_とWMSIの評価 比較・診断判定表 (1)](../../images/auto_table_02_局所壁運動異常_RWMA_とWMSIの評価_1.png)
 
 
 ---

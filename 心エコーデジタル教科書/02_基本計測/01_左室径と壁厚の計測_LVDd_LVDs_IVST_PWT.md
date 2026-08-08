@@ -82,7 +82,7 @@ graph TD
 ```
 
 
-![01_左室径と壁厚の計測_LVDd_LVDs_IVST_PWT 比較・診断判定表 (1)](..\..\images\auto_table_01_左室径と壁厚の計測_LVDd_LVDs_IVST_PWT_1.png)
+![01_左室径と壁厚の計測_LVDd_LVDs_IVST_PWT 比較・診断判定表 (1)](../../images/auto_table_01_左室径と壁厚の計測_LVDd_LVDs_IVST_PWT_1.png)
 
 
 ---

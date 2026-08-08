@@ -61,7 +61,7 @@ graph TD
 ## 3. ドプラ法 (PW/CW) の最適化
 
 
-![02_装置調整_Knobology_Bモード_ドプラの最適化 比較・診断判定表 (1)](..\..\images\auto_table_02_装置調整_Knobology_Bモード_ドプラの最適化_1.png)
+![02_装置調整_Knobology_Bモード_ドプラの最適化 比較・診断判定表 (1)](../../images/auto_table_02_装置調整_Knobology_Bモード_ドプラの最適化_1.png)
 
 
 > [!WARNING]

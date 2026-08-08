@@ -62,7 +62,7 @@ $$\text{AVA (cm}^2) = \frac{LVOT\text{ Area} \times LVOT\text{-VTI}}{AV\text{-VT
 ## 3. AS 重症度分類一覧 (ASE/EACVI / JCS 2020)
 
 
-![01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG 比較・診断判定表 (1)](..\..\images\auto_table_01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG_1.png)
+![01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG 比較・診断判定表 (1)](../../images/auto_table_01_大動脈弁狭窄症_AS_の評価_Vmax_PG_AVA_LF-LG_1.png)
 
 
 ---

@@ -33,7 +33,7 @@ $$\text{MVA (cm}^2) = \frac{220}{PHT \text{ (ms)}}$$
 ## 2. MS 重症度判定基準一覧
 
 
-![02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins 比較・診断判定表 (1)](..\..\images\auto_table_02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins_1.png)
+![02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins 比較・診断判定表 (1)](../../images/auto_table_02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins_1.png)
 
 
 ---
@@ -43,7 +43,7 @@ $$\text{MVA (cm}^2) = \frac{220}{PHT \text{ (ms)}}$$
 カテーテル治療（経皮的僧帽弁交連切開術: PTMC）の適応を評価するため、僧帽弁の形態を4項目（各1〜4点、計16点満点）でスコア化します。
 
 
-![02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins 比較・診断判定表 (2)](..\..\images\auto_table_02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins_2.png)
+![02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins 比較・診断判定表 (2)](../../images/auto_table_02_僧帽弁狭窄症_MS_の評価_MVA_PHT_Wilkins_2.png)
 
 
 - **判定**: **合計 $\le 8$ 点** の場合、弁の形態が柔らかく良好なため **PTMC (カテーテル治療) の最良適応** となります（$\ge 11$ 点では弁置換術を検討）。
